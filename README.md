@@ -1,0 +1,2 @@
+# anti-ddos-protection-version-1-to-make-public-release-after-the-variables-and-method-has-changed
+This is most effective and level 9 anti-ddos-protection that even bots cant bypass, written by bare-hans by TMS. Added README.md here to work same time as lorem ipsum and i will repeat publishing it to make it take more effective and known by more blackhats... Its for white-hats only reverse mirror to get one step back by accepting it to work..
