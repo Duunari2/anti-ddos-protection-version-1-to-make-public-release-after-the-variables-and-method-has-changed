@@ -1,4 +1,22 @@
 # anti-ddos-protection-version-1-to-make-public-release-after-the-variables-and-method-has-changed
+<img src="logo.jpg>
+<br><br>
+Shadow clone jujutsu:
+
+Because deviantart removes metadata from images i upload to their server, i do my own style. I start to uploading here, in github my digital art. Same time i can use stego for store my notes in safety place.
+
+If you want to crack or hack me, please check url: https://datat.freehostia.com/CrackMes/
+
+Other thing is the donations, when we get enought we will publish most effective and most digital forencis usable search engine without tracking or tracing, thats not all, we have the ace: I will also release the language translator with up to 120 different languages support for about 1200 words maxium lenght input in one time to transfer and it also supports some filetypes to upload...
+
+The third layer could be penetration testing VPS, that i will use to get mysql databases to ecryptfs and then report the operator of the server where the .sql dump come from, that they will have an sql injection on their site, in case the site is fair and not some assholess moneyhole.
+
+I dont take use of army or secret services servers. Thats my avoiding area. The unwritten rule..<TAG KEEP IN MIND THE README.md STARTS REALLY BOTTOM OF THIS TEXT CHUNK BEFORE TAGS<IMPORTANT TAG README.md STARTS HERE IMPORTANT TAG>
+
+That gets my radio silence mindflow pieces get seprated from these internet connection available imagination ideas. We need to migrate also today, meaning the my antiddos protection and the anti-ddos-protection have need to point from ddg.com redirect to the original php-reverse-shell which is working in localhost or in your webserver. Php needed to ran it and apache2 or nginx. And i suggest also ftp connection when uploading things and of cource the SSL encryption by basics. The SSL is not clear just by thinking it comes to your home, you need to do work for get the SSL to get it running and the pieces fitt...
+
+I have SSL activated on my webserver: <a href="https://datat.freehostia.com/">My homepage with anti-ddos-protection-low-level</a>
+
 This is most effective and level 9 anti-ddos-protection that even bots cant bypass, written by bare-hans by TMS. Added README.md here to work same time as lorem ipsum and i will repeat publishing it to make it take more effective and known by more blackhats... Its for white-hats only reverse mirror to get one step back by accepting it to work..
 
 This was the shadow clone ninjutsu technique to add layer afterr layer to get more massive file by enchanging the filesize to correlate by asking intented backups by keeping my source code here, in encrypted form of cource by making my notes safe from newbies.
