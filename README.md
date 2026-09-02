@@ -1,4 +1,5 @@
 # anti-ddos-protection-version-1-to-make-public-release-after-the-variables-and-method-has-changed
+<html>
 <img src="logo.jpg>
 <br><br>
 Shadow clone jujutsu:
@@ -60,6 +61,7 @@ The second thing is that we could get more protection to steganography - add the
 This is very cool, now i can upload all my secrets to the github server in case that no-one cannot access them, because i have very strong password that is mostly impossible to bruteforce, rainbowtable or passlist.txt to use as weapon...
 
 You can try me if you want. But let me say: Mess with the best, die like rest...
+</html>
 
 <TAG NOW ADDING THE ORIGINAL README.md WHICH WAS HARDENDED IN RADIO SILENCE BY 2 WEEKS WITHOUT INTERNET CONNECTION AND HAVE NOW ALL LAYERS FITT AND PUZZLE PIECES ARE ALL ON CORRECT PLACE <TAG>
 
