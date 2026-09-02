@@ -24,3 +24,26 @@ Only some variable things, like one line of code from someones repository by act
 Keep in mind, the anothersearchengine mascot is still the monkey, and i will add the full picture bottom of this readme so you get touch of my digital arts.
 
 So i dont know does the github remove the metadata for uploaded pictures, but note for my self: Test do the github remove the added metadata from pictures you upload to repository and after that show inside html scripting in frontpage of README.md
+
+Now we have tested the steganographically encrypted files to store them in github servers and the result was positive:
+
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[i] Found (possible) seed: "a0447a1b"            
+	Plain size: 227.0 Byte(s) (compressed)
+	Encryption Algorithm: rijndael-128
+	Encryption Mode:      cbc
+
+
+That was after i uploaded steghide embedded image file to the github and downloaded it to my localhost. The stegseek --seed logo.jpg says just what is written in top in copy pasted text...
+
+The second thing is that we could get more protection to steganography - add the encryption method 128 bits encryption to 256 if it is possible.
+
+This is very cool, now i can upload all my secrets to the github server in case that no-one cannot access them, because i have very strong password that is mostly impossible to bruteforce, rainbowtable or passlist.txt to use as weapon...
+
+You can try me if you want. But let me say: Mess with the best, die like rest...
+
+<TAG NOW ADDING THE ORIGINAL README.md WHICH WAS HARDENDED IN RADIO SILENCE BY 2 WEEKS WITHOUT INTERNET CONNECTION AND HAVE NOW ALL LAYERS FITT AND PUZZLE PIECES ARE ALL ON CORRECT PLACE <TAG>
+
+<TAG THE ORIGINAL README.md STARTS HERE TAG>
+
