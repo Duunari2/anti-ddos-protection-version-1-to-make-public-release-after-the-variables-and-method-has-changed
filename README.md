@@ -1,6 +1,6 @@
 # anti-ddos-protection-version-1-to-make-public-release-after-the-variables-and-method-has-changed
 <html>
-<img src="logo.jpg>
+<img src="https://datat.freehostia.com/logo.jpg>
 <br><br>
 Shadow clone jujutsu:
 
